@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!--Not final-->
 <html>
-    <header><title>Terms of Service</title></header>
+    <header></header>
     <body>
         <div align="center">
             <h1>Scarlet Spectrum's Terms of service</h1>
