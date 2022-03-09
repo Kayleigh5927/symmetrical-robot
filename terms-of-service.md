@@ -4,10 +4,8 @@
     <header></header>
     <body>
         <div align="center">
-            <h1>Scarlet Spectrum's Terms of service</h1>
-            <hr>
-            <h2>By commissioning me, you accept this Terms of Service</h2>
-            <hr>
+            <h1>Scarlet Spectrum's Terms of service</h1>           
+            <h2>By commissioning me, you accept this Terms of Service</h2>         
         </div>
         <section id="Terms">
        <ol>
@@ -54,8 +52,7 @@
         </ol>
         <br>
     </section>
-    <section align="center">
-        <hr>
+    <section align="center">       
         <h4>Updated as of <date>03/09/2022</date></h4>
         <p>If you have any further questions, feel free to contact me by email
             or on any of my socials and I will get back to you as soon as
