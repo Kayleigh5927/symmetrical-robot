@@ -3,13 +3,9 @@ body {
     background-image: url(8A6EA130-44DA-4362-973B-01A862965394.jpeg);
     background-repeat: repeat;
     background-size: 75px;
-    text-align: center;
+    font-size: 1.3em;
 }
-.box {
-    background-color: rgba(10, 10, 20, 0.918);
-    margin: 5em;
-    padding: 3em;
-    border-style: solid;
-    border-width: .1em;
-    border-radius: 3em;
+h1, h3, p {
+    background-color: white;
 }
+
