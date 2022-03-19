@@ -6,19 +6,13 @@ body {
     font-size: 1.3em;
 }
 h1 {
-    border-style: solid;
-    border-color: white:
-    border-width: .1em;
+    background-color: white;
 }
 h3 {
-    border-style: solid;
-    border-color: white:
-    border-width: .1em;
+    background-color: white;
 }
 h5 {
-    border-style: solid;
-    border-color: white:
-    border-width: .1em;
+    background-color: white;
 }
 
 #jackson {
