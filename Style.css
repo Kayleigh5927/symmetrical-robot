@@ -6,6 +6,7 @@ body {
     font-size: 1.3em;
 }
 h1, h3, p {
-    background-color: white;
+    border-style: solid;
+    border-color: white;
 }
 
